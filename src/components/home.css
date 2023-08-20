@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.home-data {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: 'center';
+  justify-content: center;
+}
+
+.get-started {
+  width: 50%;
+  margin-left: 25%;
+}
